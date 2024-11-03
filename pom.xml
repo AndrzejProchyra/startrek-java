@@ -8,7 +8,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <java.release>23</java.release>
+        <maven.compiler.release>23</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>5.11.3</junit.version>
         <cucumber.version>7.20.1</cucumber.version>
